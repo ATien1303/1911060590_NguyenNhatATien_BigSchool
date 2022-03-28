@@ -36,4 +36,4 @@ namespace _1911060590_NguyenNhatATien_BigSchool.Models
         }
     }
 }
-//nộp bài
+// chấm bài

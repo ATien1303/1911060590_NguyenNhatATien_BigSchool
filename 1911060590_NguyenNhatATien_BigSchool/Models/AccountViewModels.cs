@@ -6,7 +6,7 @@ namespace _1911060590_NguyenNhatATien_BigSchool.Models
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
-        [Display(Name = "Email")]
+        [Display(Name = "Nguyen Nhut A Tien")]
         public string Email { get; set; }
     }
 

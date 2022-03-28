@@ -16,17 +16,17 @@
     white-space: normal;
 }
 .navbar-inverse {
-    background-color: palevioletred;
-    border-color: red;
+    background-color: #09c153;
+    border-color: black;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: darkred;
+    color: #ef18ee;
 }
 
-.navbar-inverse .navbar-brand {
-    color: darkred;
-}
+    .navbar-inverse .navbar-brand {
+        color: #ef18ee;
+    }
 
 .course {
     list-style: none;
@@ -47,7 +47,7 @@ margin-top: 10px;
 
 .course > li .date {
     text-align: center;
-    background-color: #eb6a05;
+    background-color: #3953ee;
     color: yellow;
     width: 60px;
     border-radius: 8px;
